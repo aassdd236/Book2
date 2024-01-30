@@ -62,9 +62,6 @@ public class AuthorDao {
 		}
 	}
 
-
-
-
 	// 작가등록
 	public int authorInsert(AuthorVo authorVo) {
 

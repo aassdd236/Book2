@@ -5,7 +5,7 @@ import java.util.List;
 public class BookApp {
 
 	public static void main(String[] args) {
-		
+
 		AuthorDao authorDao = new AuthorDao();
 		//authorDao.authorInsert("서장훈", "농구선수");
 		//authorDao.authorInsert("안정환", "축구선수");
