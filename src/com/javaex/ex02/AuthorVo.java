@@ -7,7 +7,7 @@ public class AuthorVo {
 	private String authorDesc;
 	
 	
-	public AuthorVo() {
+	public AuthorVo(String string, String string2) {
 		super();
 	}
 	
